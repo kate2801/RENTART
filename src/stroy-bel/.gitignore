@@ -1,0 +1,28 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+
+../js_card1/
+../magento2.tar.gz
+../magento2_v2/
+../old_proj_4(3)kurs/
+../stroy-bel.tar.gz
+.idea/
+../untitled/
+../untitled1/
+"../\320\234\320\260\320\272\320\265\321\202 (Main)/"
+/node_modules/
